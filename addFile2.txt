@@ -1,1 +1,1 @@
-this is addFile2.txt
+this is addFile2
